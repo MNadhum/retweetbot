@@ -12,7 +12,7 @@ Images show how to mention bot, what bot reply will look like, and what the link
 
 
 <center>
-  <table>
+  <table style="border= none;">
     <tr>
       <td><img src = https://i.imgur.com/XuItWtm.png alt="Example of how to mention account" width="400" /></td>
       <td><img src = https://i.imgur.com/fS30wy4.png alt="Example of what link shows when clicked" width = "500" /></td>

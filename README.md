@@ -14,4 +14,4 @@ This is how bot is called and how it will reply:
 
 This is what the link leads to (Twitter search result with specific search filter to only show Quoted Retweets):
 
-<img src = https://i.imgur.com/fS30wy4.png alt="Example of what link shows when clicked" height = "500" width ="450" />
+<img src = https://i.imgur.com/fS30wy4.png alt="Example of what link shows when clicked" height = "500" />

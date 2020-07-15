@@ -8,10 +8,8 @@ While logged into an account on Twitter.com, reply to a specified tweet with "@Q
 
 ### Example:
 
-This is how bot is called and how it will reply:
+Images show how to mention bot, what bot reply will look like, and what the link leads to (Twitter search result with specific search filter to only show Quoted Retweets):
 
-<img src = https://i.imgur.com/XuItWtm.png alt="Example of how to mention account" height="500" width="450" style="display: inline;" />
+<img src = https://i.imgur.com/XuItWtm.png alt="Example of how to mention account" height="500" width="450" /> <img src = https://i.imgur.com/fS30wy4.png alt="Example of what link shows when clicked" width = "500" />
 
-This is what the link leads to (Twitter search result with specific search filter to only show Quoted Retweets):
 
-<img src = https://i.imgur.com/fS30wy4.png alt="Example of what link shows when clicked" width = "500" style="display: inline;" />

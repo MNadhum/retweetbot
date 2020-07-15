@@ -10,4 +10,4 @@ While logged into an account on Twitter.com, reply to a specified tweet with "@Q
 
 Images show how to mention bot, what bot reply will look like, and what the link leads to (Twitter search result with specific search filter to only show Quoted Retweets):
 
-<img src=https://imgur.com/a/6mYDYSw alt="Images showing what bot reply looks and what the link in reply leads to" width="950" />
+<img src=https://i.imgur.com/FAQcSHW.png alt="Images showing what bot reply looks and what the link in reply leads to" width="950" />

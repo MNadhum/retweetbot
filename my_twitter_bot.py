@@ -151,4 +151,4 @@ while True:
         print(e)
         break
 if broke:
-    api.send_direct_message(2703454358, "Program Stopped Running")
+    api.send_direct_message(2703454358, "Program Stopped Running") # if an error occurs, send DM to my account
